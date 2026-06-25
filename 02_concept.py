@@ -11,4 +11,4 @@ print(type(d))
 
 #Type Casting
 print(float(a))
-print(int(a))
+print(int(a))  
